@@ -15,11 +15,11 @@ On a commencé par créer le Github avec le cahier des charges et le planning à
 
 Ayant déjà le mécanisme d'envoi fixé, on a cherché à fixer le lanceur (plaque tenue par l'élastique et où se pose le projectile).
 + On a donc récupéré une plaque de bois pas très large, on l'a scié à la bonne longueur, et on fixé le lanceur à la plaque originelle (voir photo).
-![Lanceur fixé](url de ton image)
+![Lanceur fixé](https://user-images.githubusercontent.com/45574003/49941138-ed789700-fee1-11e8-8ce1-f7810077f4ad.jpg)
 + On a entrelassé plusieurs élastiques pour avoir plus de longueur.
 + Notre système basique de catapulte était prêt. Il suffisait de le tenir à la main en l'air. 
 + J'ai envoyé un programme Arduino basique qui fait tourner le moteur pas à pas. L'élastique se tendait, on retenait le lanceur, on mettait une boule de papier, et on lachait. On a donc fait plusieurs test : on a envoyé la boule à environ 3 mètres. On a un peu de jeu sur le lanceur, il bouge sur quelques milimètres.
-![Début de catapulte](url de ton image)
+![Début de catapulte](https://user-images.githubusercontent.com/45574003/49941201-20228f80-fee2-11e8-9116-fdc5400576f7.jpg)
 
 L'objectif de la prochaine séance et de créer une armature pour faire tenir la catapulte droite.
 
