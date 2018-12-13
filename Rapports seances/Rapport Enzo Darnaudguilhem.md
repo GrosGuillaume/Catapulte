@@ -20,4 +20,5 @@ Ayant déjà le mécanisme d'envoi fixé, on a cherché à fixer le lanceur (pla
 + Notre système basique de catapulte était prêt. Il suffisait de le tenir à la main en l'air. 
 + J'ai envoyé un programme Arduino basique qui fait tourner le moteur pas à pas. L'élastique se tendait, on retenait le lanceur, on mettait une boule de papier, et on lachait. On a donc fait plusieurs test : on a envoyé la boule à environ 3 mètres.
 
+L'objectif de la prochaine séance et de créer une armature pour faire tenir la catapulte droite.
 
