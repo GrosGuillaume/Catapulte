@@ -1,5 +1,6 @@
 # Voici le rapport de mes séances lors de notre projet Catapulte #
 
+
 ## Travail avant la première séance ##
 Avant la première séance (2 semaines avant), nous avons d'abord travaillé sur le __mécanisme d'envoi__: 
 + Guillaume a testé un __electro-aimant__ pour envoyer un projectile, mais on ne pouvait rien envoyer car la puissance était trop faible. On a donc cherché un autre moyen d'envoyer notre projectile.
@@ -10,6 +11,13 @@ Avant la première séance (2 semaines avant), nous avons d'abord travaillé sur
 
 
 ## Première séance ##
+On a commencé par créer le Github avec le cahier des charges et le planning à respecter.
 
+Ayant déjà le mécanisme d'envoi fixé, on a cherché à fixer le lanceur (plaque tenue par l'élastique et où se pose le projectile).
++ On a donc récupéré une plaque de bois pas très large, on l'a scié à la bonne longueur, et on fixé le lanceur à la plaque originelle (voir photo).
+![Lanceur fixé](url de ton image)
++ On a entrelassé plusieurs élastiques pour avoir plus de longueur.
++ Notre système basique de catapulte était prêt. Il suffisait de le tenir à la main en l'air. 
++ J'ai envoyé un programme Arduino basique qui fait tourner le moteur pas à pas. L'élastique se tendait, on retenait le lanceur, on mettait une boule de papier, et on lachait. On a donc fait plusieurs test : on a envoyé la boule à environ 3 mètres.
 
 
