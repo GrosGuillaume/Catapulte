@@ -5,7 +5,7 @@ Avant les premières Séance
 -
 
 * Choix du lanceur  
-L'éléctroaimant est trop faible pour envoyer une bille a plus d'un mètre, acheter un autre éléctroaimant couterait trop chère 
+L'éléctroaimant est trop faible pour envoyer une bille a plus d'un mètre et acheter un autre éléctroaimant couterait trop chère 
 (environ 80€), on change donc de plan.  
 On décide donc d'utiliser un élastique qui sera tiré par un moteur pas à pas.  
 On a placé un embout au moteur pas à pas où s'enroulera l'élastique et on a fixé le tout sur un plaque en bois.  
