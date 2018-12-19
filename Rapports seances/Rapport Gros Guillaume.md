@@ -14,10 +14,11 @@ Séance 13/12/2018
 -
 
 * Ecriture du cahier des charges et du planning.  
+Ils sont disponibles dans le répertoire Catapulte.  
   
 * Montage de la liaison entre le lanceur et le moteur pas à pas.   
 Le moteur pas à pas était déjà mis sur la planche, on a installé une plaque en bois pour le lanceur et on a mis une liaison pivot entre les deux plaques. Il nous a fallu plusieurs élastique a la chaine pour que le lanceur se repose sur le sol.  
-![lanceur]()  
+![lanceur](https://user-images.githubusercontent.com/45574003/49941201-20228f80-fee2-11e8-9116-fdc5400576f7.jpg)  
 _Test_: on arrive a lancer une boule de papier à 3m.  
 C'est plus que suffisant, après le développement de l'armature on fera les mesures pour la precision.  
   
