@@ -1,0 +1,18 @@
+CDC:
+
+Objectifs:
+-lance à plus d'un metre
+-tire dans un pot
+-s'oriente
+-capte la distance du panier
+-cible le panier
++recharge auto
++bluetooth
+
+contraintes:
+-30x30x30 cm environ
+-armature solide/mobile
+-précision relative au tir
+
+
+
