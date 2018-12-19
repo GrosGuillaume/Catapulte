@@ -16,8 +16,8 @@ Séance 13/12/2018
 * Ecriture du cahier des charges et du planning.  
   
 * Montage de la liaison entre le lanceur et le moteur pas à pas.   
-Le moteur pas à pas était déjà mis sur la planche, on a installé une plaque en bois pour le lanceur et on a mis une liaison pivot entre les deux plaques. Il nous a fallu plusieurs élastique a la cahine pour que le lanceur se repose sur le sol.  
-![lanceur](C:\Users\Guillaume\Bureau\IMG_1958.jpg)  
+Le moteur pas à pas était déjà mis sur la planche, on a installé une plaque en bois pour le lanceur et on a mis une liaison pivot entre les deux plaques. Il nous a fallu plusieurs élastique a la chaine pour que le lanceur se repose sur le sol.  
+![lanceur](C:\Users\Guillaume\Documents\Polytech\PeiP2\Elec\Projet\Images\IMG_1958)  
 _Test_: on arrive a lancer une boule de papier à 3m.  
 C'est plus que suffisant, après le développement de l'armature on fera les mesures pour la precision.  
   
