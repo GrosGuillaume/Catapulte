@@ -29,3 +29,6 @@ J'ai filmé une vidéo de la catapulte initiale avec mon téléphone pour la met
 Ensuite on a changé de plaque de support pour prendre une plaque de bois plus légère. On a donc tout bien placé sur la plaque (bons axes de symétrie).
 
 On a travaillé sur l'armature de la catapulte.
+Le but était de faire tenir toute notre catapulte initiale sur une autre plaque. Mais il faut aussi incliner la plque verticale, elle n'est pas perpendiculaire au sol. On a donc choisi une inclinaison et plié des équerres pour avoir le bon angle.
+
+Ensuite j'ai récupéré une plaque de bois qui servira de support principal, où le lanceur sera posé dessus. J'ai scié la plaque à la bonne taille. Puis on a vissé la catapulte dessus avec les équerres.
