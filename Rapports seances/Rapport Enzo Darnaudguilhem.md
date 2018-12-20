@@ -31,4 +31,8 @@ Ensuite on a changé de plaque de support pour prendre une plaque de bois plus l
 On a travaillé sur l'armature de la catapulte.
 Le but était de faire tenir toute notre catapulte initiale sur une autre plaque. Mais il faut aussi incliner la plque verticale, elle n'est pas perpendiculaire au sol. On a donc choisi une inclinaison et plié des équerres pour avoir le bon angle.
 
-Ensuite j'ai récupéré une plaque de bois qui servira de support principal, où le lanceur sera posé dessus. J'ai scié la plaque à la bonne taille. Puis on a vissé la catapulte dessus avec les équerres.
+Ensuite j'ai récupéré une plaque de bois qui servira de support principal, où le lanceur sera posé dessus. J'ai scié la plaque à la bonne taille. 
+![base_catapulte](https://user-images.githubusercontent.com/
+Puis j'ai vissé la catapulte dessus avec les équerres.
+![armature_catapulte](https://user-images.githubusercontent.com/
+On a donc fait des tests, une boule de papier part à 2m, mais elle part trop proche du sol. L'inclinaison choisie n'est pas assez forte.
