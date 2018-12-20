@@ -24,6 +24,8 @@ Ayant déjà le mécanisme d'envoi fixé, on a cherché à fixer le lanceur (pla
 L'objectif de la prochaine séance et de créer une armature pour faire tenir la catapulte droite.
 
 
-## Deuxième séance (1ç/12/18) ##
+## Deuxième séance (20/12/18) ##
 J'ai filmé une vidéo de la catapulte initiale avec mon téléphone pour la mettre sur Youtube.
 Ensuite on a changé de plaque de support pour prendre une plaque de bois plus légère. On a donc tout bien placé sur la plaque (bons axes de symétrie).
+
+On a travaillé sur l'armature de la catapulte.
