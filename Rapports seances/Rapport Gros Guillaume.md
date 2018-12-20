@@ -22,12 +22,17 @@ Le moteur pas à pas était déjà mis sur la planche, on a installé une plaque
 _Test_: on arrive a lancer une boule de papier à 3m.  
 C'est plus que suffisant, après le développement de l'armature on fera les mesures pour la precision.  
   
-`prochaine séance: armature`  
+`prochaine séance: armature et début du programme`  
 
 Séance 20/12/2018
 -
 
 * Changement de la plaque qui soutient le moteur pas à pas, on a choisit une plaque plus légère pour etre sur de pouvoir tourner la structure plus tard.  
 ![plaque]()  
+De plus on a fixé le tout sur une planche en bois qui servira de support et maintenir un angle précis entre la plaque et le sol.
+![planche]()  
 
-* Ecriture du programme
+* Ecriture du programme, on arrive a faire marcher les 3 moteurs pas à pas a la chaine tout en mesurant la distance.  
+![moteurs]()  
+
+`prochaine séance: incorporer le bluetooth au programme et finir l'armature (faire la rotation de la planche)`
