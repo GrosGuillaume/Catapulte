@@ -22,4 +22,10 @@ Le moteur pas à pas était déjà mis sur la planche, on a installé une plaque
 _Test_: on arrive a lancer une boule de papier à 3m.  
 C'est plus que suffisant, après le développement de l'armature on fera les mesures pour la precision.  
   
-`prochaine séance: armature`
+`prochaine séance: armature`  
+
+Séance 20/12/2018
+-
+
+* Changement de la plaque qui soutient le moteur pas à pas, on a choisit une plaque plus légère pour etre sur de pouvoir tourner la structure plus tard.  
+![plaque]()  
