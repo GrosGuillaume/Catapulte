@@ -29,3 +29,5 @@ Séance 20/12/2018
 
 * Changement de la plaque qui soutient le moteur pas à pas, on a choisit une plaque plus légère pour etre sur de pouvoir tourner la structure plus tard.  
 ![plaque]()  
+
+* Ecriture du programme
