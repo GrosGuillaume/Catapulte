@@ -30,7 +30,7 @@ Séance 20/12/2018
 * Changement de la plaque qui soutient le moteur pas à pas, on a choisit une plaque plus légère pour etre sur de pouvoir tourner la structure plus tard.  
 ![plaque]()  
 De plus on a fixé le tout sur une planche en bois qui servira de support et maintenir un angle précis entre la plaque et le sol.
-![planche]()  
+![planche](https://user-images.githubusercontent.com/45574003/50378810-05b38900-063b-11e9-86af-da5ded0d8f53.jpg)  
 
 * Ecriture du programme, on arrive a faire marcher les 3 moteurs pas à pas a la chaine tout en mesurant la distance.  
 ![moteurs]()  
