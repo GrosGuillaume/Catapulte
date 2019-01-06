@@ -32,7 +32,7 @@ Séance 20/12/2018
 De plus on a fixé le tout sur une planche en bois qui servira de support et maintenir un angle précis entre la plaque et le sol.
 ![planche](https://user-images.githubusercontent.com/45574003/50378810-05b38900-063b-11e9-86af-da5ded0d8f53.jpg)  
 
-* Ecriture du programme, on arrive a faire marcher les 3 moteurs pas à pas a la chaine tout en mesurant la distance.  
+* Ecriture du programme, on arrive a faire marcher les 3 moteurs pas à pas chacuns leurs tour tout en mesurant la distance. On a juste fait faire un tour a chaque moteur pas à pas. Il nous faudra mesurer la distance d'envoie en fonction des tours du moteur pas à pas.  
 ![moteurs](https://user-images.githubusercontent.com/45574003/50400621-4836ac00-0788-11e9-8d88-8a11e3deda06.jpg)  
 
 `prochaine séance: incorporer le bluetooth au programme et finir l'armature (faire la rotation de la planche)`
