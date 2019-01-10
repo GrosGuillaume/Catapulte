@@ -45,5 +45,6 @@ J'ai commencé par faire un trou dans la plaque de l'armature pour y mettre le m
 ![Armature_trouPaP](
 Puis j'ai cherché un bout de bois à fixer sur le moyeu, pour interagir avec le lanceur. J'ai percé puis fixé le bout de bois. Et on a testé le tout ensemble.
 ![Armature_lanceurPaP](
+![Test_couloir](
 Comme on avait presque fini l'armature, j'ai commencé à travailler sur le pivot (ce qui permet de faire tourner la catapulte pour visser). 
 
