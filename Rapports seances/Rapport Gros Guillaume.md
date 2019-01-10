@@ -40,6 +40,14 @@ De plus on a fixé le tout sur une planche en bois qui servira de support et mai
 Séance 10/01/2019  
 -  
 
-* 
+* Ecriture du programme visant a faire marcher le bluetooth avec le reste, il a fallut changer des PINs d'un moteur pas à pas avec ceux du bluetooth et du module son.  
+
+* Ecriture de l'algorithme du programme lors d'un fonctionnement autonome (visé, tiré et recharge), l'algorithme du fonctionnement en bluetooth sera fait plus tard.  
+
+* On a fait des tests avec la catapulte, il y a le moteur pas à pas qui bloque la plateforme tenant la bille, quand celui-ci débloque la plateforme il dévie le tire. On prévoit d'ajouter de quoi tenir la direction de la bille.  
+![blocage](https://user-images.githubusercontent.com/45574003/50964807-81815280-14d0-11e9-8f80-e5afdae7afa0.jpg)  
+
+`prochaine séance: ecrire le programme du fonctionnement autonome et faire la rotation de la planche`  
+
 
 
