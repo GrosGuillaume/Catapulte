@@ -42,9 +42,9 @@ Chez moi j'ai donc replié les équerres à 45 degrés et l'inclinaison semble b
 
 ## Troisième séance (10/01/19) ##
 J'ai commencé par faire un trou dans la plaque de l'armature pour y mettre le moteur pas à pas qui déclenche le lancer.
-![Armature_trouPaP](
-Puis j'ai cherché un bout de bois à fixer sur le moyeu, pour interagir avec le lanceur. J'ai percé puis fixé le bout de bois. Et on a testé le tout ensemble.
-![Armature_lanceurPaP](
-![Test_couloir](
+![Armature_trouPaP](https://user-images.githubusercontent.com/45574003/50964706-47b04c00-14d0-11e9-9fe1-9b3bbcc4ae01.jpg)
+On a reçu les moyeux donc on les a fixé sur les moteurs pas à pas. Puis j'ai cherché un bout de bois à fixer sur le moyeu, pour interagir avec le lanceur. J'ai percé puis fixé le bout de bois. Et on a testé le tout ensemble.
+![Armature_lanceurPaP](https://user-images.githubusercontent.com/45574003/50964807-81815280-14d0-11e9-8f80-e5afdae7afa0.jpg)
+![Test_couloir](https://user-images.githubusercontent.com/45574003/50964866-aa094c80-14d0-11e9-981c-004650b9b870.jpg)
 Comme on avait presque fini l'armature, j'ai commencé à travailler sur le pivot (ce qui permet de faire tourner la catapulte pour visser). 
 
