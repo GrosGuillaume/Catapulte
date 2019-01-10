@@ -38,3 +38,12 @@ Puis j'ai vissé la catapulte dessus avec les équerres.
 On a donc fait des tests, une boule de papier part à 2m, mais elle part trop proche du sol. L'inclinaison choisie n'est pas assez forte.
 Chez moi j'ai donc replié les équerres à 45 degrés et l'inclinaison semble bonne.
 ![Armature_45deg](https://user-images.githubusercontent.com/45574003/50378810-05b38900-063b-11e9-86af-da5ded0d8f53.jpg)
+
+
+## Troisième séance (10/01/19) ##
+J'ai commencé par faire un trou dans la plaque de l'armature pour y mettre le moteur pas à pas qui déclenche le lancer.
+![Armature_trouPaP](
+Puis j'ai cherché un bout de bois à fixer sur le moyeu, pour interagir avec le lanceur. J'ai percé puis fixé le bout de bois. Et on a testé le tout ensemble.
+![Armature_lanceurPaP](
+Comme on avait presque fini l'armature, j'ai commencé à travailler sur le pivot (ce qui permet de faire tourner la catapulte pour visser). 
+
