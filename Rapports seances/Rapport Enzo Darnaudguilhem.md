@@ -48,3 +48,9 @@ On a reçu les moyeux donc on les a fixé sur les moteurs pas à pas. Puis j'ai 
 ![Test_couloir](https://user-images.githubusercontent.com/45574003/50964866-aa094c80-14d0-11e9-981c-004650b9b870.jpg)
 Comme on avait presque fini l'armature, j'ai commencé à travailler sur le pivot (ce qui permet de faire tourner la catapulte pour visser). 
 
+
+## QUatrième séance (17/01/19) ##
+J'ai travaillé entièrement sur la plateforme pivot. On a commencé par couper une plaque de bois aux mêmes dimensions que la plaque principale. 
+![Plaque_pivot](
+J'ai ensuite fixé le moyeu sous la plaque principale, ce qui permet de relier la plaque de pivot et la plaque principale.
+![
