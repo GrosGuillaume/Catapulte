@@ -29,9 +29,9 @@ J'ai filmé une vidéo de la catapulte initiale avec mon téléphone pour la met
 Ensuite on a changé de plaque de support pour prendre une plaque de bois plus légère. On a donc tout bien placé sur la plaque (bons axes de symétrie).
 
 On a travaillé sur l'armature de la catapulte.
-Le but était de faire tenir toute notre catapulte initiale sur une autre plaque. Mais il faut aussi incliner la plque verticale, elle n'est pas perpendiculaire au sol. On a donc choisi une inclinaison et plié des équerres pour avoir le bon angle.
+Le but était de faire tenir toute notre catapulte initiale sur une autre plaque. Mais il faut aussi incliner la plaque verticale, elle n'est pas perpendiculaire au sol. On a donc choisi une inclinaison et plié des équerres pour avoir le __bon angle__.
 
-Ensuite j'ai récupéré une plaque de bois qui servira de support principal, où le lanceur sera posé dessus. J'ai scié la plaque à la bonne taille.
+Ensuite j'ai récupéré une plaque de bois qui servira de support principal, où le __lanceur__ sera posé dessus. J'ai scié la plaque à la bonne taille.
 ![base_catapulte](https://user-images.githubusercontent.com/45574003/50378619-f0d4f680-0636-11e9-87e5-d42d663ba263.jpg)
 Puis j'ai vissé la catapulte dessus avec les équerres.
 ![Armature_60deg](https://user-images.githubusercontent.com/45574003/50378805-f03e5f00-063a-11e9-9ed0-78404035d554.jpg)
@@ -43,19 +43,19 @@ Chez moi j'ai donc replié les équerres à 45 degrés et l'inclinaison semble b
 ## Troisième séance (10/01/19) ##
 J'ai commencé par faire un trou dans la plaque de l'armature pour y mettre le moteur pas à pas qui déclenche le lancer.
 ![Armature_trouPaP](https://user-images.githubusercontent.com/45574003/50964706-47b04c00-14d0-11e9-9fe1-9b3bbcc4ae01.jpg)
-On a reçu les moyeux donc on les a fixé sur les moteurs pas à pas. Puis j'ai cherché un bout de bois à fixer sur le moyeu, pour interagir avec le lanceur. J'ai percé puis fixé le bout de bois. Et on a testé le tout ensemble.
+On a reçu les __moyeux__ donc on les a fixé sur les moteurs pas à pas. Puis j'ai cherché un bout de bois à fixer sur le moyeu, pour interagir avec le lanceur. J'ai percé puis fixé le bout de bois. Et on a testé le tout ensemble.
 ![Armature_lanceurPaP](https://user-images.githubusercontent.com/45574003/50964807-81815280-14d0-11e9-8f80-e5afdae7afa0.jpg)
 ![Test_couloir](https://user-images.githubusercontent.com/45574003/50964866-aa094c80-14d0-11e9-981c-004650b9b870.jpg)
 Comme on avait presque fini l'armature, j'ai commencé à travailler sur le pivot (ce qui permet de faire tourner la catapulte pour visser). 
 
 
 ## Quatrième séance (17/01/19) ##
-J'ai travaillé entièrement sur la plateforme pivot. Le but de la plaque pivot et de soutenir la plaque prinicpale avec la catapulte. Un moteur pas à pas est donc fixé à cette plaque pour faire pivoter la plaque principale. Puis des équerres servirons de support pour soulager le poids subi par le moteur pas à pas.
+J'ai travaillé entièrement sur la plateforme __pivot__. Le but de la plaque pivot et de soutenir la plaque prinicpale avec la catapulte. Un moteur pas à pas est donc fixé à cette plaque pour faire __pivoter__ la plaque principale. Puis des équerres servirons de support pour soulager le poids subi par le moteur pas à pas.
 On a commencé par couper une plaque de bois aux mêmes dimensions que la plaque principale.
 ![Plaque_pivot](https://user-images.githubusercontent.com/45574003/51338372-e9640a00-1a89-11e9-9f91-920eb91f0cae.jpg)
-J'ai ensuite fixé le moyeu sous la plaque principale, ce qui permet de relier la plaque pivot et la plaque principale.Le moteur pas à pas pourra faire pivoter la plaque principale avec la catapulte. La catapulte pourra donc viser un panier.
+J'ai ensuite fixé le moyeu sous la plaque principale, ce qui permet de relier la plaque pivot et la plaque principale. Le moteur pas à pas pourra faire pivoter la plaque principale avec la catapulte. La catapulte pourra donc viser un panier.
 ![Moyeu_pivot](https://user-images.githubusercontent.com/45574003/51338527-5d061700-1a8a-11e9-9b46-24b1ce4d4e18.jpg)
-
-On a ensuite présenté notre projet pendant l'oral. J'ai testé avec un programme simple un cycle de "enrouler-tirer-dérouler-se repositionner". La catapulte pouvait tirer et se repositionner indéfiniment. Il reste à calculer le temps d'enroulage de l'élastique pour controler précisément la longueur du tir. 
+On a ensuite présenté notre projet pendant l'oral.
+J'ai testé avec un programme simple un cycle de __"enrouler-tirer-dérouler-se repositionner"__. La catapulte pouvait tirer et se repositionner indéfiniment. Il reste à calculer le temps d'enroulage de l'élastique pour controler précisément la longueur du tir. 
 Puis on a fini par positionner la plateforme principale sur la plateforme pivot, où les équerres supportaient le poids.
 ![Pivot+catapulte](
