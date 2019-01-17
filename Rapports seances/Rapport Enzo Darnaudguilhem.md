@@ -50,7 +50,7 @@ Comme on avait presque fini l'armature, j'ai commencé à travailler sur le pivo
 
 
 ## QUatrième séance (17/01/19) ##
-J'ai travaillé entièrement sur la plateforme pivot. On a commencé par couper une plaque de bois aux mêmes dimensions que la plaque principale. 
-![Plaque_pivot](
+J'ai travaillé entièrement sur la plateforme pivot. On a commencé par couper une plaque de bois aux mêmes dimensions que la plaque principale. Le but de la plaque pivot et de soutenir la plaque prinicpale avec la catapulte. Un moteur pas à pas est donc fixé à cette plaque pour faire pivoter la plaque principale. Puis des équerres servirons de support pour soulager le poids subi par le moteur pas à pas.
+![Plaque_pivot](https://user-images.githubusercontent.com/45574003/51338372-e9640a00-1a89-11e9-9f91-920eb91f0cae.jpg)
 J'ai ensuite fixé le moyeu sous la plaque principale, ce qui permet de relier la plaque de pivot et la plaque principale.
 ![
