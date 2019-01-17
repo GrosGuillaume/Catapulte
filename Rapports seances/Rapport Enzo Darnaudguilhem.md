@@ -59,3 +59,4 @@ On a ensuite présenté notre projet pendant l'oral.
 J'ai testé avec un programme simple un cycle de __"enrouler-tirer-dérouler-se repositionner"__. La catapulte pouvait tirer et se repositionner indéfiniment. Il reste à calculer le temps d'enroulage de l'élastique pour controler précisément la longueur du tir. 
 Puis on a fini par positionner la plateforme principale sur la plateforme pivot, où les équerres supportaient le poids.
 ![Pivot+catapulte](https://user-images.githubusercontent.com/45574003/51338832-28468f80-1a8b-11e9-97e8-5e72e4a0757b.jpg)
+On a testé et la plateforme pouvait pivoter doucement, il reste à améliorer le tout.
