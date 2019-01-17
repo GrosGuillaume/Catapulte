@@ -27,7 +27,7 @@ L'objectif de la prochaine séance et de créer une armature pour faire tenir la
 ## Deuxième séance (20/12/18) ##
 J'ai filmé une vidéo de la catapulte initiale avec mon téléphone pour la mettre sur Youtube.
 
-https://youtu.be/V5EHKaHTR_A
+https://www.youtube.com/watch?v=DyY7zPlhrk4
 
 Ensuite on a changé de plaque de support pour prendre une plaque de bois plus légère. On a donc tout bien placé sur la plaque (bons axes de symétrie).
 
@@ -38,9 +38,14 @@ Ensuite j'ai récupéré une plaque de bois qui servira de support principal, o�
 ![base_catapulte](https://user-images.githubusercontent.com/45574003/50378619-f0d4f680-0636-11e9-87e5-d42d663ba263.jpg)
 Puis j'ai vissé la catapulte dessus avec les équerres.
 ![Armature_60deg](https://user-images.githubusercontent.com/45574003/50378805-f03e5f00-063a-11e9-9ed0-78404035d554.jpg)
+
+https://www.youtube.com/watch?v=wKyZYhmr6aM
+
 On a donc fait des tests, une boule de papier part à 2m, mais elle part trop proche du sol. L'inclinaison choisie n'est pas assez forte.
 Chez moi j'ai donc replié les équerres à 45 degrés et l'inclinaison semble bonne.
 ![Armature_45deg](https://user-images.githubusercontent.com/45574003/50378810-05b38900-063b-11e9-86af-da5ded0d8f53.jpg)
+
+https://www.youtube.com/watch?v=_9IVKUDfaCI
 
 
 ## Troisième séance (10/01/19) ##
