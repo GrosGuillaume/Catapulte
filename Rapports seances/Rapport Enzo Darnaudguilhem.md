@@ -26,6 +26,8 @@ L'objectif de la prochaine séance et de créer une armature pour faire tenir la
 
 ## Deuxième séance (20/12/18) ##
 J'ai filmé une vidéo de la catapulte initiale avec mon téléphone pour la mettre sur Youtube.
+
+https://youtu.be/V5EHKaHTR_A
 Ensuite on a changé de plaque de support pour prendre une plaque de bois plus légère. On a donc tout bien placé sur la plaque (bons axes de symétrie).
 
 On a travaillé sur l'armature de la catapulte.
