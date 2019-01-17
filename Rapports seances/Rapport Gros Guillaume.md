@@ -49,5 +49,15 @@ Séance 10/01/2019
 
 `prochaine séance: ecrire le programme du fonctionnement autonome et faire la rotation de la planche`  
 
+Séance 17/01/2019  
+-  
+
+* Fin de l'écriture du programme de la catapulte en fonctionnement autonome, celui-ci reprend donc l'algorithme fait la séance précendante, pas d'erreur de compilation il faut encore le tester.  
+
+* Contruction de la liaison en le corps de la catapulte et le sol, on a mis un moteur pas à pas en dessous, celui-ci fixé sur une planche, avec des équerre pour tenir la structure. La catapulte peut maintenant se diriger horizontalement. Cependant la catapulte a du mal a tournée et donc on prevoit plusieurs solution pour améliorer la rotation. Le module bluetooth à été mis sur le devant de la catapulte avec du velcro.  
+![rotation]()  
+
+* Tests au niveau de la distance du lancé par rapport a l'enroulement de l'élastique.  
+
 
 
