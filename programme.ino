@@ -1,0 +1,90 @@
+#include<Stepper.h>
+#include<NewPing.h>
+#include<SoftwareSerial.h>
+#include<Servo.h>
+Servo servo;
+#define trig 3
+#define echo 2
+#define RX 4
+#define TX 5
+
+const int nombrePas= 32*64;
+Stepper moteurElast(nombrePas, 14, 16, 15, 17);
+Stepper moteurRot(nombrePas,6,8,7,9);
+Stepper moteurBloq(nombrePas,10,12,11,13);
+NewPing sonar(trig,echo,250);
+SoftwareSerial BlueT(RX,TX);
+int distance = 0;
+int distanceAncien = 0;
+int elastique = 10000;    //le nombre de tour qu'il faut faire pour tirer l'elastque
+char data;                // pas utile ici, ça servira pour le bluetooth
+int i = 0;                //pour compter la rotation
+int rotation = 1;         //défini la rotation
+double tour = 0;          //compter le nombre de pas durant lequelles le module distance parcours l'objet
+
+void setup() {
+ // put your setup code here, to run once:
+  Serial.begin(9600);
+  BlueT.begin(9600);
+  moteurElast.setSpeed(5);
+  moteurRot.setSpeed(1);
+  moteurBloq.setSpeed(1);
+  servo.attach(18);
+ 
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  delay(100);
+  distance = sonar.ping_cm();
+  distanceAncien = distance;
+  while((distance<distanceAncien+5)&&(distance>distance-5)){     //tourner jusqu'a repérer une cible ( avec une tolérance )
+    distanceAncien = distance;
+    moteurBloq.step(rotation*nombrePas/360);
+    delay(100);
+    distance = sonar.ping_cm();
+    i++;
+    if(i>90){
+      rotation = rotation*(-1);
+      i = 0;
+    }
+  }
+  tour = 0;
+  while((distance< distanceAncien +10)&&(distance> distanceAncien -10)){  //positionner la catapulte sur la cible
+    distanceAncien = distance;
+    moteurBloq.step(rotation*nombrePas/360);
+    tour = nombrePas/360;
+    delay(100);
+    distance = sonar.ping_cm();
+  }
+  moteurBloq.step(-rotation*tour/2);       //revenir sur la position de la cible
+  elastique =0;
+  tire(distanceAncien);       //tirer la bille
+  servo.write(10);            //recharge de la catapulte 
+  delay(50);
+  servo.write(100);
+  if(rotation <0){
+    moteurBloq.step(rotation*((tour/2)+(90-i)*nombrePas/360));          //continuer jusqu'a etre tout a gauche
+  }
+  else{
+    moteurBloq.step((int)(-1)*(i*nombrePas/360)+(tour/2)); //revenir en arrière de ce que la catapulte a parcouru
+  }
+  i = 0;
+  rotation = 1;
+  
+//tests  
+//
+//  delay(100);
+//  distance = sonar.ping_cm();
+//  Serial.println(distance);
+//  servo.write(10);
+//  moteurBloq.step(nombrePas/4);
+//  moteurElast.step(elastique);
+//  moteurBloq.step(-nombrePas/4);
+//  moteurElast.step(-elastique);
+//}
+
+void tire(int distance){
+  //code a venir ici après avec fait les tests de distance en fonction des tours
+  
+}
