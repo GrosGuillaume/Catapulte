@@ -68,5 +68,8 @@ Séance 04/02/2019
 ![graphique](https://user-images.githubusercontent.com/45574003/52116524-a2d9e800-2611-11e9-914d-5da5da1a9df0.JPG)  
 
 * Tests pour vérifier le modèle, il lance un peu loin lorsque le panier est loin et il n'arrive pas a toucher le panier quand il est proche. On a corriger les coefficents de la droite pour coller a l'expérience.  
-![tests]()  
+![tests](https://user-images.githubusercontent.com/45574003/52217918-c0b97e00-2899-11e9-8c44-325fb5f1aeeb.jpg)  
 
+* Tests de l'algorithme en entier, la rotation de la catapulte ne marche pas, le moteur n'est pas assez puissance, on met de coté la rotation et on avance le reste en attendant un moteur plus puissant.
+
+`prochaine séance: faire la recharge`
