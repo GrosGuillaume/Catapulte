@@ -77,6 +77,8 @@ J'ai commencé par installer 2 vis qui servent à orienter le lanceur et assurer
 ![Vis_lanceur](https://user-images.githubusercontent.com/45574003/52217860-a384af80-2899-11e9-8529-fb8df253ca1c.jpg)
 On a ensuite testé notre programme avec le graphique (enroulement de l'élastique en fonction de la distance de tir)
 Donc on a tout réglé et notre catapulte est fiable pour tirer à la distance voulue.
+
 https://youtu.be/trpTCh9YJEE
+
 Mais on a dû abandonner pour l'instant le pivot. Le moteur est trop faible pour supporter toute la catapulte. Donc la catapulte ne pivotera pas pour l'instant.
 ![Test_distance](https://user-images.githubusercontent.com/45574003/52217918-c0b97e00-2899-11e9-8c44-325fb5f1aeeb.jpg)
