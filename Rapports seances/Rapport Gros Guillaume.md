@@ -61,3 +61,12 @@ Séance 17/01/2019
 
 `prochaine séance: amélioré la rotation de la catapulte et faire la recharge`  
 
+Séance 04/02/2019
+-  
+
+* Série de lancers en regardant la distance en fonction des tours du moteur pas à pas. A l'aide d'un algorithme de regression linéaire, création d'un modèle pour connaitre le nombre de tours a faire avec le moteur en fonciton de la distance à laquelle il faut tirer la bille.  
+![graphique](https://user-images.githubusercontent.com/45574003/52116524-a2d9e800-2611-11e9-914d-5da5da1a9df0.JPG)  
+
+* Tests pour vérifier le modèle, il lance un peu loin lorsque le panier est loin et il n'arrive pas a toucher le panier quand il est proche. On a corriger les coefficents de la droite pour coller a l'expérience.  
+![tests]()  
+
