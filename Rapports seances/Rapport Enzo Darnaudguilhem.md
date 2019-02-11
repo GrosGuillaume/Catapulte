@@ -87,3 +87,16 @@ Mais on a dû abandonner pour l'instant le pivot. Le moteur est trop faible pour
 Ensuite on a commencé (en avance sur le planning) le rechargement automatique. Donc on a pris et coupé une planche de bois puis fait un trou pour mettre le tube où les billes seront stockées.
 
 ![Planche_recharge1](https://user-images.githubusercontent.com/45574003/52562228-2a87d980-2dfe-11e9-83e9-6d12317b3396.jpg)
+
+
+## Sixième séance (11/02/19) ##
+On a passé la séance à créer le système de rechargement de bille. On est passé par plusieurs systèmes.
+
+Premièrement on voulait faire tomber la bille depuis le côté. Mais on s'est rendu compte que ca ne marcherait jamais.
+![Planche_recharge1](https://user-images.githubusercontent.com/45574003/52562228-2a87d980-2dfe-11e9-83e9-6d12317b3396.jpg)
+
+Alors on a pensé à faire tomber la bille directement depuis le dessus. On a donc coupé les planches de bois afin que le servo moteur soit au-dessus. On a testé mais l'incertitude est trop grande car la bille en tombant de 20 centimètres n'arrivait pas exactement au même endroit.
+![Rechargement_2](
+
+Finalement, on a choisi de faire tomber la bille depuis le dessus, mais quand la bille précédente vient d'être tirée. Ainsi le lanceur est positionné au plus haut, la bille ne tombe que de quelques centimètres.
+[Rechargement_final](
