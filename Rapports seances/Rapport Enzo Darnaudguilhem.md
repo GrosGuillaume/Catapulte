@@ -82,3 +82,7 @@ https://youtu.be/trpTCh9YJEE
 
 Mais on a dû abandonner pour l'instant le pivot. Le moteur est trop faible pour supporter toute la catapulte. Donc la catapulte ne pivotera pas pour l'instant.
 ![Test_distance](https://user-images.githubusercontent.com/45574003/52217918-c0b97e00-2899-11e9-8c44-325fb5f1aeeb.jpg)
+
+
+Ensuite on a commencé (en avance sur le planning) le rechargement automatique. Donc on a pris et coupé une planche de bois puis fait un trou pour mettre le tube où les billes seront stockées.
+[Planche_recharge1](https://user-images.githubusercontent.com/45574003/52562228-2a87d980-2dfe-11e9-83e9-6d12317b3396.jpg)
