@@ -98,5 +98,5 @@ Premièrement on voulait faire tomber la bille depuis le côté. Mais on s'est r
 Alors on a pensé à faire tomber la bille directement depuis le dessus. On a donc coupé les planches de bois afin que le servo moteur soit au-dessus. On a testé mais l'incertitude est trop grande car la bille en tombant de 20 centimètres n'arrivait pas exactement au même endroit.
 ![Rechargement_2](
 
-Finalement, on a choisi de faire tomber la bille depuis le dessus, mais quand la bille précédente vient d'être tirée. Ainsi le lanceur est positionné au plus haut, la bille ne tombe que de quelques centimètres.
+Finalement, on a choisi de faire tomber la bille depuis le dessus, mais quand la bille précédente vient d'être tirée. Ainsi le lanceur est positionné au plus haut, la bille ne tombe que de quelques centimètres. Et on a mis un petit bout de papier qui sert d'entonnoir.
 [Rechargement_final](
