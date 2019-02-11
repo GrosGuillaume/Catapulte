@@ -85,4 +85,5 @@ Mais on a dû abandonner pour l'instant le pivot. Le moteur est trop faible pour
 
 
 Ensuite on a commencé (en avance sur le planning) le rechargement automatique. Donc on a pris et coupé une planche de bois puis fait un trou pour mettre le tube où les billes seront stockées.
+
 [Planche_recharge1](https://user-images.githubusercontent.com/45574003/52562228-2a87d980-2dfe-11e9-83e9-6d12317b3396.jpg)
