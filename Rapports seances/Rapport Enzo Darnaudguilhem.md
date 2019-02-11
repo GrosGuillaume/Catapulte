@@ -101,8 +101,8 @@ Alors on a pensé à faire tomber la bille directement depuis le dessus. On a do
 ![Rechargement_2_03](https://user-images.githubusercontent.com/45574003/52584180-b404cf00-2e31-11e9-8f30-67cf6c1c8d56.jpg)
 
 Finalement, on a choisi de faire tomber la bille depuis le dessus, mais quand la bille précédente vient d'être tirée. Ainsi le lanceur est positionné au plus haut, la bille ne tombe que de quelques centimètres. Et on a mis un petit bout de papier qui sert d'entonnoir.
-[Rechargement_final_01](https://user-images.githubusercontent.com/45574003/52584271-e31b4080-2e31-11e9-822e-da887eccfde7.jpg)
-[Rechargement_final_02](https://user-images.githubusercontent.com/45574003/52584443-62a90f80-2e32-11e9-9795-0770c6c319b1.jpg)
+![Rechargement_final_01](https://user-images.githubusercontent.com/45574003/52584271-e31b4080-2e31-11e9-822e-da887eccfde7.jpg)
+![Rechargement_final_02](https://user-images.githubusercontent.com/45574003/52584443-62a90f80-2e32-11e9-9795-0770c6c319b1.jpg)
 
 
 https://youtu.be/j8lAM7015Ho
