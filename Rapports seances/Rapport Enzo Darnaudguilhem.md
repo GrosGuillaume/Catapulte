@@ -95,8 +95,14 @@ On a passé la séance à créer le système de rechargement de bille. On est pa
 Premièrement on voulait faire tomber la bille depuis le côté. Mais on s'est rendu compte que ca ne marcherait jamais.
 ![Planche_recharge1](https://user-images.githubusercontent.com/45574003/52562228-2a87d980-2dfe-11e9-83e9-6d12317b3396.jpg)
 
-Alors on a pensé à faire tomber la bille directement depuis le dessus. On a donc coupé les planches de bois afin que le servo moteur soit au-dessus. On a testé mais l'incertitude est trop grande car la bille en tombant de 20 centimètres n'arrivait pas exactement au même endroit.
-![Rechargement_2](
+Alors on a pensé à faire tomber la bille directement depuis le dessus. On a donc coupé les planches de bois et le tube en métal afin que le servo moteur soit au-dessus. On a testé mais l'incertitude est trop grande car la bille en tombant de 20 centimètres n'arrivait pas exactement au même endroit.
+![Rechargement_2_01](https://user-images.githubusercontent.com/45574003/52583547-2674af80-2e30-11e9-8cac-a0dcdfe226bd.jpg)
+![Rechargement_2_02](https://user-images.githubusercontent.com/45574003/52583825-d5b18680-2e30-11e9-83b5-0d7d8ce34b17.jpg)
+![Rechargement_2_03](https://user-images.githubusercontent.com/45574003/52584180-b404cf00-2e31-11e9-8f30-67cf6c1c8d56.jpg)
 
 Finalement, on a choisi de faire tomber la bille depuis le dessus, mais quand la bille précédente vient d'être tirée. Ainsi le lanceur est positionné au plus haut, la bille ne tombe que de quelques centimètres. Et on a mis un petit bout de papier qui sert d'entonnoir.
-[Rechargement_final](
+[Rechargement_final_01](https://user-images.githubusercontent.com/45574003/52584271-e31b4080-2e31-11e9-822e-da887eccfde7.jpg)
+[Rechargement_final_02](https://user-images.githubusercontent.com/45574003/52584443-62a90f80-2e32-11e9-9795-0770c6c319b1.jpg)
+
+
+https://youtu.be/j8lAM7015Ho
