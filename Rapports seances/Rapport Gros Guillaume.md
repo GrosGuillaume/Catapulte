@@ -80,7 +80,7 @@ Séance 11/02/2019
 * On a pris un tube dans lequel on a fait une fente dedans pour pouvoir passer l'embout d'un servo moteur et ainsi bloqué les billes qui passaient dedans. Ensuite on a fait tenir ça sur des planches en bois sur élevé pour ne pas toucher la catapulte quand elle tire, mais c'était pas précis et cela ne marchait pas.  
 * On a donc fait une plateforme en haut de la catapulte pour la rechager alors que la catapulte est au repos. Et de par cette plateforme on a fait passer notre tube, mais on arrivait toujours pas a mettre la bille dans la catapulte a chaque coup.  
 * On a fini par avancer la platforme pour essayer a l'aide d'une "bavette" de recharger la catapulte quand elle est en haut ( après avoir tiré ). La nouvelle technique marche maintenant a tous les coups.  
-![graphique]()  
+![recharge](https://user-images.githubusercontent.com/45574003/52584271-e31b4080-2e31-11e9-822e-da887eccfde7.jpg)  
 
 `prochaine séance: essayer de faire marcher la rotation et mettre le module bluetooth`
 
