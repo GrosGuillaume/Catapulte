@@ -35,10 +35,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  delay(100);
-  distance = sonar.ping_cm();
-  Serial.println(distance);
-  tire(distance);
   
 //  distanceAncien = distance;
 //  while((distance<distanceAncien+5)&&(distance>distance-5)){     //tourner jusqu'a repérer une cible ( avec une tolérance )
@@ -64,9 +60,6 @@ void loop() {
 //  moteurRot.step(-rotation*tour/2);       //revenir sur la position de la cible
 //  elastique =0;
 //  tire(distanceAncien);       //tirer la bille
-//  servo.write(10);            //recharge de la catapulte 
-//  delay(50);
-//  servo.write(100);
 //  if(rotation <0){
 //    moteurBloq.step(rotation*((tour/2)+(90-i)*nombrePas/360));          //continuer jusqu'a etre tout a gauche
 //  }
@@ -85,6 +78,10 @@ void tire(int distance){
   Serial.println(distance);
   moteurElast.step(int ((3400+ 30*distance)));
   moteurBloq.step(nombrePas/4);
+  delay(1000);
+  servo.write(10);            //recharge de la catapulte 
+  delay(70);
+  servo.write(100);
   moteurElast.step(int (-(3400 +30*distance)));
   moteurBloq.step(-nombrePas/4);
 }
