@@ -105,7 +105,7 @@ Finalement, on a choisi de faire tomber la bille depuis le dessus, mais quand la
 ![Rechargement_final_02](https://user-images.githubusercontent.com/45574003/52584443-62a90f80-2e32-11e9-9795-0770c6c319b1.jpg)
 
 
-https://youtu.be/j8lAM7015Ho
+Vidéo Youtube : https://youtu.be/j8lAM7015Ho
 
 
 
@@ -115,3 +115,8 @@ Maintenant qu'on avait réussi la recharge automatique, on a passé la séance �
 
 Puis on a testé le tout avec le programme. La catapulte mesure la distance, et tire dans le panier, tout en rechargeant la bille.
 ![Test_poubelle_recharge](https://user-images.githubusercontent.com/45574003/53346860-30aaa980-3918-11e9-8dfd-9f0e3f8eeddf.jpg)
+
+Ensuite on a testé la catapulte avec le bluetooth. Le téléphone permet de faire feu. Quand on appuie sur un bouton, la catapulte mesure la distance du panier, tire et recharge. De plus, la distance mesurée est affichée sur le téléphone.
+![Bluetooth](https://user-images.githubusercontent.com/45574003/53348598-aa906200-391b-11e9-983a-b9ef8bb4e2df.jpg)
+
+Vidéo Youtube : 
