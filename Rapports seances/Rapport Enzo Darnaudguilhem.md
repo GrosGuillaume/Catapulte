@@ -106,3 +106,9 @@ Finalement, on a choisi de faire tomber la bille depuis le dessus, mais quand la
 
 
 https://youtu.be/j8lAM7015Ho
+
+
+
+## Septième séance (25/02/19) ##
+Maintenant qu'on avait réussi la recharge automatique, on a passé la séance à fixer tous les fils et la carte arduino avec la projet.
+Puis on a testé le tout avec le programme.
