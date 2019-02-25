@@ -110,5 +110,8 @@ https://youtu.be/j8lAM7015Ho
 
 
 ## Septième séance (25/02/19) ##
-Maintenant qu'on avait réussi la recharge automatique, on a passé la séance à fixer tous les fils et la carte arduino avec la projet.
-Puis on a testé le tout avec le programme.
+Maintenant qu'on avait réussi la recharge automatique, on a passé la séance à fixer tous les fils et la carte arduino avec la projet pour voir si tout marche ensemble. On mettra le tout au propre ensuite.
+![Branchements_test](https://user-images.githubusercontent.com/45574003/53346820-17a1f880-3918-11e9-918b-b5740015e11e.jpg)
+
+Puis on a testé le tout avec le programme. La catapulte mesure la distance, et tire dans le panier, tout en rechargeant la bille.
+![Test_poubelle_recharge](https://user-images.githubusercontent.com/45574003/53346860-30aaa980-3918-11e9-8dfd-9f0e3f8eeddf.jpg)
