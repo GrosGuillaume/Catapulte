@@ -7,6 +7,7 @@ Servo servo;
 #define echo 2
 #define RX 4
 #define TX 5
+#define pinServ 18
 
 const int nombrePas= 32*64;
 Stepper moteurElast(nombrePas, 14, 16, 15, 17);
@@ -29,7 +30,7 @@ void setup() {
   moteurElast.setSpeed(5);
   moteurRot.setSpeed(1);
   moteurBloq.setSpeed(5);
-  servo.attach(18);
+  servo.attach(pinServ);
  
 }
 
@@ -79,9 +80,15 @@ void tire(int distance){
   moteurElast.step(int ((3400+ 30*distance)));
   moteurBloq.step(nombrePas/4);
   delay(1000);
+  if(distance < 50){
+      moteurElast.step(2000);
+  }
   servo.write(10);            //recharge de la catapulte 
   delay(70);
   servo.write(100);
+  if(distance < 50){
+      moteurElast.step(-2000);
+  }
   moteurElast.step(int (-(3400 +30*distance)));
   moteurBloq.step(-nombrePas/4);
 }
