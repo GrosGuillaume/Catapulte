@@ -84,4 +84,12 @@ Séance 11/02/2019
 
 `prochaine séance: essayer de faire marcher la rotation et mettre le module bluetooth`
 
+Séance 25/02/2019
+-  
 
+* On a mis la nouvelle carte arduino et on a tout fait marcher ensemble. On a essayer de faire marcher la rotation en posant la catapulte sur sa fixation et faisant attention de ne pas la faire reposer sur les equerres qui tiennent la catapulte. Au final la catapulte arrive légèrement a tournée mais la précision est moindre a grande distance. On verra a la prochaine séance si on arrive a mettre une alimentation plus puissante sur le moteur pas à pas.    
+
+* Bluetooth incorporé, il sert donner l'ordre de tire de la catapulte et reçoit la distance qu'il y a entre la catapulte et la cible.   
+![Bluetooth](https://user-images.githubusercontent.com/45574003/53348598-aa906200-391b-11e9-983a-b9ef8bb4e2df.jpg)  
+
+`prochaine séance: tester si il reste des corrections a effectuer`  
