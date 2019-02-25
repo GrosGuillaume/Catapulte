@@ -119,4 +119,4 @@ Puis on a testé le tout avec le programme. La catapulte mesure la distance, et 
 Ensuite on a testé la catapulte avec le bluetooth. Le téléphone permet de faire feu. Quand on appuie sur un bouton, la catapulte mesure la distance du panier, tire et recharge. De plus, la distance mesurée est affichée sur le téléphone.
 ![Bluetooth](https://user-images.githubusercontent.com/45574003/53348598-aa906200-391b-11e9-983a-b9ef8bb4e2df.jpg)
 
-Vidéo Youtube : 
+Vidéo Youtube : https://youtu.be/rttM7mmnA_w
