@@ -98,7 +98,7 @@ Séance 04/03/2019
 -  
 
 * On a rangé tout les cables et les différents modules a l'aide de pastilles adhésives.  
-![Catapulte]()  
+![Catapulte](https://user-images.githubusercontent.com/45574003/53745632-a4f8c600-3e9f-11e9-9728-81b9944cca2d.jpg)  
 
 * On a filmé un tire avec rechargement puis un deuxième en changeant le panier de place.  
 
