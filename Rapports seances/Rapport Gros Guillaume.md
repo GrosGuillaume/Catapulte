@@ -93,3 +93,16 @@ Séance 25/02/2019
 ![Bluetooth](https://user-images.githubusercontent.com/45574003/53348598-aa906200-391b-11e9-983a-b9ef8bb4e2df.jpg)  
 
 `prochaine séance: tester si il reste des corrections a effectuer`  
+
+Séance 04/03/2019
+-  
+
+* On a rangé tout les cables et les différents modules a l'aide de pastilles adhésives.  
+![Catapulte]()  
+
+* On a filmé un tire avec rechargement puis un deuxième en changeant le panier de place.  
+
+* On a rangé le github avec un dossier informatique où l'on a mis tout ce qui concerne les algorithmes et les programmes.  
+
+* On a commencé le rapport de fin de projet.  
+
