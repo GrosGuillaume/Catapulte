@@ -18,7 +18,7 @@ SoftwareSerial BlueT(RX,TX);
 int distance = 0;
 int distanceAncien = 0;
 int elastique = 2500;    //le nombre de tour qu'il faut faire pour tirer l'elastque
-char data;                // pas utile ici, ça servira pour le bluetooth
+char Data;                // Pour le bluetooth
 int i = 0;                //pour compter la rotation
 int rotation = 1;         //défini la rotation
 double tour = 0;          //compter le nombre de pas durant lequelles le module distance parcours l'objet
@@ -36,6 +36,17 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+  if(BlueT.available()){
+    Data=BlueT.read();
+  }
+  if(Data=='M'){
+    delay(60);
+    distance = sonar.ping_cm();
+    tire(distance);
+    Data = 'N';
+  }
+
+  
   
 //  distanceAncien = distance;
 //  while((distance<distanceAncien+5)&&(distance>distance-5)){     //tourner jusqu'a repérer une cible ( avec une tolérance )
@@ -75,20 +86,19 @@ void loop() {
 }
 
 void tire(int distance){
-  Serial.print("La distance de tir: ");
-  Serial.println(distance);
-  moteurElast.step(int ((3400+ 30*distance)));
+  BlueT.println("*A La distance de tir est de : "+String(distance)+" cm *");
+  moteurElast.step(int ((3400+ 29*distance)));
   moteurBloq.step(nombrePas/4);
   delay(1000);
-  if(distance < 50){
+  if(distance < 70){
       moteurElast.step(2000);
   }
   servo.write(10);            //recharge de la catapulte 
-  delay(70);
+  delay(150);
   servo.write(100);
-  if(distance < 50){
+  if(distance < 70){
       moteurElast.step(-2000);
   }
-  moteurElast.step(int (-(3400 +30*distance)));
+  moteurElast.step(int (-(3400 +29*distance)));
   moteurBloq.step(-nombrePas/4);
 }
