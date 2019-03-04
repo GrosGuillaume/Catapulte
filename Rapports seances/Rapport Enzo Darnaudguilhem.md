@@ -120,3 +120,17 @@ Ensuite on a testé la catapulte avec le bluetooth. Le téléphone permet de fai
 ![Bluetooth](https://user-images.githubusercontent.com/45574003/53348598-aa906200-391b-11e9-983a-b9ef8bb4e2df.jpg)
 
 Vidéo Youtube : https://youtu.be/rttM7mmnA_w
+
+
+
+## Huitième séance (04/03/19) ##
+
+![Cable1](
+
+
+![Cable2](
+
+
+![Cable3](
+
+Vidéo Youtube : https://www.youtube.com/watch?v=BatLk3GYbJI&t=18s
