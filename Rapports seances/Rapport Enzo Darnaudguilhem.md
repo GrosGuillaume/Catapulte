@@ -126,7 +126,7 @@ Vidéo Youtube : https://youtu.be/rttM7mmnA_w
 ## Huitième séance (04/03/19) ##
 Aujourd'hui on a fini le projet. 
 J'ai passé 1h30 à faire le "cable management". J'ai fixé avec de la pâte adhésive la carte arduino, le module bluetooth, et tous les fils afin que ce soit propre. Les fils ne dépassent plus n'importe comment.
-![Cable2](https://github.com/GrosGuillaume/Catapulte/issues/31)
+![Cable2](https://user-images.githubusercontent.com/45574003/53745645-afb35b00-3e9f-11e9-8ec0-d5839638c9b8.jpg)
 
 Ensuite on a eu un problème de court-circuit, dont on a perdu un peu de temps à trouver la solution. 
 Une fois le problème résolu, on a testé la catapulte finale. Le module distance  ne marchait pas, il affichait la distance uniquement à 0. On pense que la catapulte ne marche que si elle branchée à un ordinateur. La prise secteur semble empêcher le fonctionnement.
